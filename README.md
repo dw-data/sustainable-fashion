@@ -90,4 +90,4 @@ We assigned each pledge one category, reflecting the most relevant content of th
 
 # Results
 
-The full database, available in this repository under `Fashion Promises Database.xlsx` or as a [Google Sheet](xxx), provides detailed information on each pledge, as well as an analysis sheet detailing the results.
+The full database, available in this repository under `Fashion Promises Database.xlsx` or as a [Google Sheet](https://docs.google.com/spreadsheets/d/1jNyMxEm__RIjerm0N53NTbNUr-tjTdePLgQL8gv-IMc/edit?gid=1886098743#gid=1886098743), provides detailed information on each pledge, as well as an analysis sheet detailing the results.
