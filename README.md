@@ -16,7 +16,7 @@ This project is a collaboration within the [European Data Journalism Network](ht
 
 Links will be added as articles are published.
 
-- DW: *"From luxury to fast fashion: How green are European brands?"* [[English](https://www.dw.com/a-xx) | [German](https://www.dw.com/a-xx)]
+- DW: *"From luxury to fast fashion: How green are European brands?"* [[English](https://www.dw.com/a-74716981) | [German](https://www.dw.com/a-74723154)]
 
 # Data collection
 Data was collated from various sources and collected for this project by collaborators.
