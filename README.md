@@ -16,7 +16,13 @@ This project is a collaboration within the [European Data Journalism Network](ht
 
 Links will be added as articles are published.
 
-- DW: *"From luxury to fast fashion: How green are European brands?"* [[English](https://www.dw.com/a-74716981) | [German](https://www.dw.com/a-74723154)]
+- DW: *"From luxury to fast fashion: How green are European brands?"* [ [Chinese](https://www.dw.com/a-74805603) | [English](https://www.dw.com/a-74716981) | [German](https://www.dw.com/a-74723154) | [Russian](https://www.dw.com/a-74884684) | [Spanish](https://www.dw.com/a-74871663) | [Turkish](https://www.dw.com/a-74870466) ] 
+- Chateurope: *From luxury to fast fashion: how green are European brands?* [[English](https://chateurope.eu/en/from-luxury-to-fast-fashion-how-green-are-european-brands/)]
+- European Data Journalism Network: *From luxury to fast fashion: How green are European brands?* [[English](https://www.europeandatajournalism.eu/cp_data_news/from-luxury-to-fast-fashion-how-green-are-european-brands/)]
+- FACTA.EU: *Behind the Labels: Fashion Brands Meet Half of Their Green Pledges* [[English](https://facta.eu/behind-the-labels-fashion-brands-meet-half-of-their-green-pledges/) | [Italian](https://facta.eu/it/dietro-le-etichette-i-marchi-di-moda-rispettano-meta-dei-loro-impegni-verdi/)]
+- The Journal Investigates:
+    - *From Prada to Zara, we checked whether fashion firms keep their green promises* [[English](https://www.thejournal.ie/investigates-fashion-firms-green-promises-6869393-Nov2025/?utm_source=story)]
+    - *Penneys claims it's making clothes to last - so we put them to the test* [[English](https://www.thejournal.ie/investigates-penneys-clothes-durability-claims-6864297-Nov2025/)]
 
 # Data collection
 Data was collated from various sources and collected for this project by collaborators.
